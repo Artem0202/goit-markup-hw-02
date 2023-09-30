@@ -38,6 +38,10 @@ text-transform: uppercase;
 color: var(--NAVY-BLUE, #2E2F42);
 font-weight: 500;
 }
+.navigation-menu-list:hover,
+.navigation-menu-list:focus {
+color: var(--OCEAN, #404BBF);
+}
 .top-line-address {
 font-style: normal;
 }
@@ -45,9 +49,6 @@ font-style: normal;
 color: currentColor; 
 }
 .top-line-address-list:hover, .top-line-address-list:focus {
-color: var(--OCEAN, #404BBF);
-}
-.navigation-menu-list:hover, .navigation-menu-list:focus {
 color: var(--OCEAN, #404BBF);
 }
 
