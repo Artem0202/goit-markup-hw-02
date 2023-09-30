@@ -152,6 +152,15 @@ flex-shrink: 0;
 .footer-section {
 background: var(--NAVY-BLUE, #2E2F42);
 }
+.logo-first-part-down {
+color: var(--IRIS, #4D5AE5);
+font-family: 'Raleway';
+font-size: 18px;
+font-weight: 700;
+line-height: 1.17;
+letter-spacing: 0.54px;
+text-transform: uppercase;
+}
 .logo-second-part-down {
 color: var(--CLOUD, #F4F4FD);
 font-family: 'Raleway';
