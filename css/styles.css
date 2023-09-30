@@ -44,7 +44,7 @@ font-style: normal;
 .top-line-address-list {
 color: currentColor; 
 }
-.top-line-address:hover, .top-line-address:focus, .navigation-menu-list:hover, .navigation-menu-list:focus {
+.top-line-address-list:hover, .top-line-address-list:focus, .navigation-menu-list-list:hover, .navigation-menu-list-list:focus {
 color: var(--OCEAN, #404BBF);
 }
 
